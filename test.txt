@@ -20,6 +20,7 @@ Source:
                     
                                     - - - - - - - - - - - - - - - - - - - 
 
+NOTES : If you like bananas, this creamiest of the shakes will probably win your heart
 
 
 
@@ -72,10 +73,10 @@ Categories    : Drinks, Juices, & Smoothies
   Amount  Measure       Ingredient -- Preparation Method
 --------  ------------  --------------------------------
      1/2        Medium  Orange
-       4                Green Apples -- seeded
+       2                Green Apples -- seeded
        1                Banana -- ripe
-       3    Tablespoon  Brewer's Yeast
-       3                Orange Slice -- for garnish
+       1    Tablespoon  Brewer's Yeast
+       1                Orange Slice -- for garnish
 
 Juice the orange and apple. Place juice, banana, and yeast in a blender or food processor, and blend until smooth. Garnish with orange slice. 
 
