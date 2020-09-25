@@ -247,3 +247,12 @@ Food Exchanges: 0 Grain(Starch); 0 Lean Meat; 0 Vegetable; 1/2 Fruit; 0 Fat; 0 O
 
 
 Nutr. Assoc. : 0 0 0 0
+Nutr. Assoc. : 0 0 0 0
+Nutr. Assoc. : 0 0 0 0
+Nutr. Assoc. : 0 0 0 0
+Nutr. Assoc. : 0 0 0 0
+Nutr. Assoc. : 0 0 0 0
+Nutr. Assoc. : 0 0 0 0
+Nutr. Assoc. : 0 0 0 0
+Nutr. Assoc. : 0 0 0 0
+Nutr. Assoc. : 0 0 0 0
